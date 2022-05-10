@@ -120,10 +120,10 @@ After creating the widget the loader panel is hidden. If you would like to have 
 - glTFRuntime (Third party plugin)
 
 ## Links
-**Ready Player Me SDK**
-- [Documentation](https://link-url-here.org)
+**Ready Player Me Unreal SDK**
+- [Documentation](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4)
 - [Download](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/unreal-plugin-download)
-- [Support](mailto:support@wolf3d.io)
+- [Support](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/troubleshooting)
 
 **glTFRuntime**
 - [Documentation](https://github.com/rdeioris/glTFRuntime-docs/blob/master/README.md)
