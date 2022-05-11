@@ -114,3 +114,19 @@ After creating the widget the loader panel is hidden. If you would like to have 
  Finally we bind an event to the panel close button to hide/show the avatar loader panel as shown below.
  
 ![img-bind-close](https://user-images.githubusercontent.com/7085672/164051116-e94acdeb-5c80-4519-bf2b-524f6ab7a02e.png)
+
+## Dependencies
+- Ready Player Me Unreal SDK 
+- glTFRuntime (Third party plugin)
+
+## Links
+**Ready Player Me Unreal SDK**
+- [Documentation](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4)
+- [Download](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/unreal-plugin-download)
+- [Support](https://docs.readyplayer.me/ready-player-me/integration-guides/unreal-engine-4/troubleshooting)
+
+**glTFRuntime**
+- [Documentation](https://github.com/rdeioris/glTFRuntime-docs/blob/master/README.md)
+ 
+
+
